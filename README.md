@@ -4,11 +4,11 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on **Full Stack Development Projects**  
-- 🌱 I’m learning **Cloud Computing & DevOps**  
-- 💬 Ask me about **Python, Java, React.js, Spring Boot, Flutter**  
-- 📫 Reach me at **blcabhishek@gmail.com**  
-- ⚡ Fun fact: *I turn coffee ☕ into code 💻*
+- I’m currently working on **Full Stack Development Projects**  
+- I’m learning **Cloud Computing & DevOps**  
+- Ask me about **Python, Java, React.js, Spring Boot, Flutter**  
+- Reach me at **blcabhishek@gmail.com**  
+- Fun fact: *I turn coffee into code*
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🌐 Connect with me:
+##  Connect with me:
 <p>
   <a href="https://linkedin.com/in/abhishek-sandeep-perera" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -32,7 +32,7 @@
 
 ---
 
-## 💻 Programming Languages
+##  Programming Languages
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
@@ -43,7 +43,7 @@
 
 ---
 
-## 🎨 Frontend Development
+##  Frontend Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
@@ -55,7 +55,7 @@
 
 ---
 
-## ⚙️ Backend Development
+##  Backend Development
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
@@ -65,7 +65,7 @@
 
 ---
 
-## 🗄 Databases
+##  Databases
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
@@ -74,7 +74,7 @@
 
 ---
 
-## 🛠 Tools & Platforms
+##  Tools & Platforms
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
@@ -86,7 +86,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aspofficial1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
 </p>
