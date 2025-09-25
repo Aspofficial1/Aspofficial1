@@ -1,69 +1,100 @@
-Abhishek Sandeep Perera
-Full Stack Developer | Sri Lanka
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">, I'm Abhihsek Sandeep Perera</h1>
+<h3 align="center">A passionate Frontend & Backend Developer from Sri Lanka 🇱🇰</h3>
 
-About Me
-I am a dedicated Full Stack Developer based in Sri Lanka, specializing in building robust and scalable web applications. With a strong foundation in both frontend and backend technologies, I deliver end-to-end solutions that prioritize performance, usability, and innovation.
+---
 
-Current Focus: Developing full stack applications with a focus on modern frameworks and cloud integration.
-Learning: Advancing expertise in Cloud Computing and DevOps practices to enhance deployment efficiency.
-Expertise: Proficient in Python, Java, React.js, Spring Boot, and Flutter for cross-platform development.
-Contact: Reach me at blcabhishek@gmail.com.
-Fun Fact: I thrive on transforming complex challenges into elegant, efficient code.
+## About Me
+- I’m currently working on **Full Stack Development Projects**  
+- I’m learning **Cloud Computing & DevOps**  
+- Ask me about **Python, Java, React.js, Spring Boot, Flutter**  
+- Reach me at **blcabhishek@gmail.com**  
+- Fun fact: *I turn coffee into code*
 
+---
 
-Achievements
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aspofficial1&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
+---
 
-Connect with Me
+##  Connect with me:
+<p>
+  <a href="https://linkedin.com/in/abhishek-sandeep-perera" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://fb.com/abhihseksp" target="blank">
+    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
-LinkedIn
-Facebook
+---
 
+##  Programming Languages
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+</p>
 
-Programming Languages
+---
 
-Python: Versatile scripting and backend development.
-Java: Enterprise-grade applications and APIs.
-JavaScript: Dynamic client-side scripting.
-PHP: Server-side web development.
-Kotlin: Modern Android and cross-platform development.
+##  Frontend Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
+</p>
 
+---
 
-Frontend Development
+##  Backend Development
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
+</p>
 
-React: Building interactive and responsive user interfaces.
-HTML5: Structuring modern web content.
-CSS3: Styling with flexibility and precision.
-Bootstrap: Rapid, responsive UI development.
-Tailwind CSS: Utility-first CSS for streamlined design.
-Flutter: Cross-platform UI for web and mobile apps.
+---
 
+##  Databases
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+</p>
 
-Backend Development
+---
 
-Node.js: Scalable server-side JavaScript applications.
-Express: Fast and minimal RESTful APIs.
-Spring: Robust Java-based backend frameworks.
-.NET: Enterprise-level backend solutions.
+##  Tools & Platforms
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40"/>
+</p>
 
+---
 
-Databases
+##  GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aspofficial1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
-MySQL: Reliable relational database management.
-MongoDB: Flexible NoSQL database for scalability.
-Microsoft SQL Server: Enterprise-grade SQL solutions.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aspofficial1&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-
-Tools & Platforms
-
-Git: Version control for collaborative development.
-Figma: Collaborative UI/UX design and prototyping.
-Photoshop: Graphic design and asset creation.
-Illustrator: Vector-based design for branding.
-Arduino: Prototyping hardware integrations.
-Unity: Game development and interactive experiences.
-
-
-GitHub Statistics
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=aspofficial1&theme=highcontrast" alt="GitHub Streak" />
+</p>
