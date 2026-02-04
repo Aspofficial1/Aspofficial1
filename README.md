@@ -1,175 +1,277 @@
-# Abhishek Sandeep Perera
+<!-- Animated Header with Typing Effect -->
+<div align="center">
+  
+<!-- Custom Banner would go here - You can create one at canva.com or use photoshop -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Sandeep%20Perera&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Sorcerer%20%7C%20Cloud%20Architect%20%7C%20Code%20Poet&descSize=16&descAlignY=51" width="100%"/>
 
-<h3 align="center">Full Stack Developer | Cloud Computing Enthusiast | Sri Lanka</h3>
+</div>
+
+<div align="center">
+  
+### 💫 *"Turning caffeine into code, one commit at a time"* ☕→ 💻
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Building+Scalable+Solutions+with+Modern+Tech+%F0%9F%9A%80;Exploring+Cloud+%E2%98%81%EF%B8%8F+%26+DevOps+%F0%9F%94%A7)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## About Me
+## 🎯 Mission Control
 
-Passionate Full Stack Developer with expertise in modern web technologies and cloud computing. Currently focused on building scalable applications using cutting-edge technologies and exploring DevOps practices. Committed to writing clean, maintainable code and delivering exceptional user experiences.
-
-- Currently working on **Full Stack Development Projects**
-- Learning **Cloud Computing & DevOps**
-- Ask me about **Python, Java, React.js, Spring Boot, Flutter**
-- Reach me at **blcabhishek@gmail.com**
-- Fun fact: *I turn coffee into code*
+```javascript
+const abhishek = {
+    location: "Colombo, Sri Lanka 🌍",
+    currentMission: "Building the future, one function at a time",
+    workingOn: ["Microservices Architecture", "Cloud Native Apps", "DevOps Automation"],
+    learning: ["AWS Solutions Architecture", "Kubernetes Orchestration", "System Design"],
+    funFact: "I debug in my dreams 💭",
+    motto: "Code is poetry written in logic",
+    
+    codeStats: {
+        totalCoffees: "∞",
+        bugsSquashed: 9999,
+        featuresShipped: "Countless",
+        nightsDebugging: "Too many to count"
+    },
+    
+    contact() {
+        return "blcabhishek@gmail.com";
+    }
+};
+```
 
 ---
 
+## 🧬 Tech DNA — The Arsenal
+
+### ⚡ Core Languages
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aspofficial1&theme=algolia&no-frame=true&margin-w=10&column=4" alt="GitHub Achievement Trophies" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,kotlin&theme=dark" />
+</p>
+
+### 🎨 Frontend Mastery
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,flutter&theme=dark" />
+</p>
+
+### ⚙️ Backend Engineering
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet&theme=dark" />
+</p>
+
+### 🗄️ Database Universe
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&theme=dark" />
+</p>
+
+### 🎯 Design & Creative
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,xd&theme=dark" />
+</p>
+
+---
+
+## 📊 Battle Stats — GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aspofficial1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aspofficial1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" />
+
+</div>
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspofficial1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aspofficial1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
+
+</div>
+
+---
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=aspofficial1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
+
+</div>
+
+---
+
+## 🚀 Current Quests
+
+<table>
+<tr>
+<td width="50%">
+
+### 💼 Professional Focus
+- 🏗️ **Enterprise Solutions** with Spring Boot
+- ☁️ **Cloud Architecture** (AWS, Azure)
+- 📱 **Mobile Apps** using Flutter
+- 🔄 **CI/CD Pipelines** & DevOps
+- 🎯 **Microservices** & Containerization
+
+</td>
+<td width="50%">
+
+### 🎓 Learning Path
+- 🧠 System Design & Architecture
+- 🐳 Docker & Kubernetes
+- ⚡ Serverless Computing
+- 🔐 Security Best Practices
+- 📊 Data Engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Code Philosophy
+
+<div align="center">
+
+```python
+class Developer:
+    def __init__(self, name="Abhishek"):
+        self.name = name
+        self.skills = {
+            "frontend": ["React", "Flutter", "HTML/CSS"],
+            "backend": ["Spring Boot", "Node.js", "Express"],
+            "database": ["MySQL", "MongoDB", "PostgreSQL"],
+            "cloud": ["AWS", "Azure", "Serverless"],
+            "mobile": ["Flutter", "React Native"]
+        }
+        self.principles = [
+            "Clean Code",
+            "Test-Driven Development", 
+            "Continuous Learning",
+            "User-Centric Design"
+        ]
+    
+    def work(self):
+        while True:
+            self.code()
+            self.test()
+            self.deploy()
+            self.learn()
+            self.repeat()
+    
+    def collaborate(self, project):
+        return f"Let's build {project} together! 🚀"
+```
+
+</div>
+
+---
+
+## 🎯 Expertise Matrix
+
+<div align="center">
+
+| Skill Area | Technologies | Proficiency |
+|:----------:|:------------|:-----------:|
+| **Frontend** | React, HTML/CSS, Bootstrap, Tailwind | ⭐⭐⭐⭐⭐ |
+| **Backend** | Spring Boot, Node.js, Express | ⭐⭐⭐⭐⭐ |
+| **Mobile** | Flutter, React Native | ⭐⭐⭐⭐ |
+| **Database** | MySQL, MongoDB, PostgreSQL | ⭐⭐⭐⭐⭐ |
+| **Cloud** | AWS, Azure, Docker | ⭐⭐⭐⭐ |
+| **DevOps** | CI/CD, Git, Linux | ⭐⭐⭐⭐ |
+| **Design** | Figma, Photoshop, Illustrator | ⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/aspofficial1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aspofficial1&repo=repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
+</a>
+
+<!-- Add more pinned repos as needed -->
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+### Open to collaborate on:
+✅ Full Stack Web Applications  
+✅ Cloud-Native Solutions  
+✅ Mobile App Development  
+✅ Open Source Projects  
+✅ DevOps & Automation Tools
+
+<br/>
+
+### 📫 Reach Out
+<p>
+  <a href="mailto:blcabhishek@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/abhishek-sandeep-perera">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/aspofficial1">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://fb.com/abhihseksp">
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
 </p>
 
----
-
-## Connect with me:
-<p>
-  <a href="https://linkedin.com/in/abhishek-sandeep-perera" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://fb.com/abhihseksp" target="blank">
-    <img src="https://img.shields.io/badge/Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-## Programming Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-</p>
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![Snake animation](https://github.com/aspofficial1/aspofficial1/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-## Frontend Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/>
-</p>
+## 👀 Profile Visitors
+
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=aspofficial1&label=Profile%20Views&color=00F7F7&style=for-the-badge" alt="Profile Views" />
+
+</div>
 
 ---
 
-## Backend Development
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"/>
-</p>
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
 
 ---
 
-## Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-</p>
+<div align="center">
 
----
+### 🎨 *"In the intersection of creativity and logic, magic happens"* ✨
 
-## Tools & Platforms
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" height="40"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
----
+**⚡ Powered by Coffee ☕ | Fueled by Passion 🔥 | Driven by Innovation 🚀**
 
-## Professional Highlights
-
-### Current Focus Areas
-- **Enterprise Applications** - Building scalable microservices with Spring Boot
-- **Cloud Architecture** - Designing cloud-native solutions and serverless applications
-- **Mobile Development** - Cross-platform applications using Flutter
-- **DevOps Integration** - CI/CD pipelines and containerization with Docker
-
-### Technical Expertise
-- **Full Stack Development** - End-to-end application development
-- **API Development** - RESTful services and GraphQL implementations
-- **Database Design** - Relational and NoSQL database optimization
-- **UI/UX Implementation** - Responsive design and modern web interfaces
-
----
-
-## GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aspofficial1&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aspofficial1&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aspofficial1&theme=highcontrast" alt="GitHub Streak" />
-</p>
-
----
-
-## Development Philosophy
-
-### Core Principles
-- **Clean Architecture** - Writing maintainable and testable code
-- **User-Centric Design** - Prioritizing exceptional user experiences
-- **Continuous Learning** - Staying updated with emerging technologies
-- **Problem Solving** - Turning complex challenges into elegant solutions
-
----
-
-## Recent Projects & Achievements
-
-### Notable Work
-- **Enterprise Web Applications** - Built scalable solutions using Spring Boot and React
-- **Mobile Applications** - Developed cross-platform apps with Flutter
-- **API Development** - Created robust RESTful services with proper authentication
-- **Database Optimization** - Improved query performance and data modeling
-
-### Learning Journey
-- Exploring **Microservices Architecture** and containerization
-- Diving deep into **Cloud Computing** platforms (AWS, Azure)
-- Mastering **DevOps practices** and CI/CD pipelines
-- Studying **System Design** for large-scale applications
-
----
-
-## Open Source & Collaboration
-
-Passionate about contributing to the open source community and sharing knowledge. Always interested in collaborating on innovative projects that solve real-world problems.
-
-**Open to collaborate on:**
-- Full Stack Web Development
-- Cloud-Native Applications
-- Mobile App Development
-- Developer Tools & Utilities
-
----
-
-## Professional Approach
-
-*"Code is not just instructions for computers—it's communication with future developers, including yourself."*
-
-**What drives me:**
-- Building solutions that make a difference
-- Writing code that others can understand and maintain
-- Continuous improvement and learning
-- Sharing knowledge with the developer community
-
----
-
-**Let's connect and build something amazing together!**
+</div>
