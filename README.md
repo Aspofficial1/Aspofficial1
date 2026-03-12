@@ -1,17 +1,16 @@
-This is a solid foundation! I’ve polished the "Full Stack Sorcerer" aesthetic by tightening the code blocks, modernizing the tech stack visual layout, and adding a bit more "punch" to your mission statement.
-
-I updated the **Mission Control** to look more like modern TypeScript and refined the **Tech DNA** section for better visual flow.
-
-```markdown
+<!-- Animated Header with Typing Effect -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Sandeep%20Perera&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Sorcerer%20%7C%20Cloud%20Architect%20%7C%20DevOps%20Enthusiast&descSize=16&descAlignY=51" width="100%"/>
+  
+<!-- Custom Banner would go here - You can create one at canva.com or use photoshop -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Sandeep%20Perera&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Sorcerer%20%7C%20Cloud%20Architect%20%7C%20Code%20Poet&descSize=16&descAlignY=51" width="100%"/>
+
 </div>
 
 <div align="center">
   
-### 💫 *"Architecting digital ecosystems with precision and passion"* 🚀
+### 💫 *"Turning caffeine into code, one commit at a time"* ☕→ 💻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Engineer+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Crafting+Scalable+Cloud+Solutions+%E2%98%81%EF%B8%8F;Bridging+the+gap+between+Design+%26+Logic+%F0%9F%8E%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0;Building+Scalable+Solutions+with+Modern+Tech+%F0%9F%9A%80;Exploring+Cloud+%E2%98%81%EF%B8%8F+%26+DevOps+%F0%9F%94%A7)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,52 +18,60 @@ I updated the **Mission Control** to look more like modern TypeScript and refine
 
 ## 🎯 Mission Control
 
-```typescript
+```javascript
 const abhishek = {
-    origin: "Colombo, Sri Lanka 🌍",
-    specialization: ["Full Stack Development", "Cloud Architecture", "DevOps"],
-    currentFocus: "Scaling Microservices & Distributed Systems",
-    techStack: ["Java/Spring", "TypeScript/Node", "React", "AWS"],
-    philosophy: "Write code that tells a story, solve problems that matter.",
+    location: "Colombo, Sri Lanka 🌍",
+    currentMission: "Building the future, one function at a time",
+    workingOn: ["Microservices Architecture", "Cloud Native Apps", "DevOps Automation"],
+    learning: ["AWS Solutions Architecture", "Kubernetes Orchestration", "System Design"],
+    funFact: "I debug in my dreams 💭",
+    motto: "Code is poetry written in logic",
     
-    stats: {
-        coffeeLevel: "Maximized",
-        bugFixRate: "100%",
-        deploymentSuccess: "99.9% uptime",
-        hoursInTerminal: "Yes"
+    codeStats: {
+        totalCoffees: "∞",
+        bugsSquashed: 9999,
+        featuresShipped: "Countless",
+        nightsDebugging: "Too many to count"
     },
     
-    contact: () => "blcabhishek@gmail.com"
+    contact() {
+        return "blcabhishek@gmail.com";
+    }
 };
-
 ```
 
 ---
 
 ## 🧬 Tech DNA — The Arsenal
 
-### ⚡ Languages & Core
-
+### ⚡ Core Languages
 <p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,ts,js,php,kotlin,cpp%26theme%3Ddark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,php,kotlin&theme=dark" />
 </p>
 
-### 🎨 Frontend & Mobile
-
+### 🎨 Frontend Mastery
 <p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,tailwind,flutter,bootstrap,html,css%26theme%3Ddark" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind,flutter&theme=dark" />
 </p>
 
-### ⚙️ Backend & Infrastructure
-
+### ⚙️ Backend Engineering
 <p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,spring,dotnet,aws,docker,kubernetes,linux%26theme%3Ddark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet&theme=dark" />
 </p>
 
-### 🗄️ Database & Tools
-
+### 🗄️ Database Universe
 <p align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dmysql,mongodb,postgres,redis,git,github,vscode,figma%26theme%3Ddark" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,linux&theme=dark" />
+</p>
+
+### 🎯 Design & Creative
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ps,ai,xd&theme=dark" />
 </p>
 
 ---
@@ -72,12 +79,26 @@ const abhishek = {
 ## 📊 Battle Stats — GitHub Analytics
 
 <div align="center">
-
+  
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aspofficial1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=aspofficial1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6D00&currStreakLabel=00F7F7" />
 
+</div>
+
+<div align="center">
+  
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aspofficial1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=aspofficial1&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7F7&line=00F7F7&point=FFFFFF" />
+
+</div>
+
+---
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
+  
+<img src="https://github-profile-trophy.vercel.app/?username=aspofficial1&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
 
 </div>
 
@@ -90,23 +111,21 @@ const abhishek = {
 <td width="50%">
 
 ### 💼 Professional Focus
-
-* 🏗️ **Distributed Systems** with Spring Boot
-* ☁️ **Cloud Native** AWS Implementations
-* 📱 **Cross-Platform** magic with Flutter
-* 🔄 **GitOps** & Automated Workflows
-* 🎯 **Scalable APIs** & GraphQL
+- 🏗️ **Enterprise Solutions** with Spring Boot
+- ☁️ **Cloud Architecture** (AWS, Azure)
+- 📱 **Mobile Apps** using Flutter
+- 🔄 **CI/CD Pipelines** & DevOps
+- 🎯 **Microservices** & Containerization
 
 </td>
 <td width="50%">
 
 ### 🎓 Learning Path
-
-* 🧠 Advanced System Design
-* 🐳 K8s Cluster Management
-* ⚡ Event-Driven Architecture
-* 🔐 OAuth2 & Security Hardening
-* 📊 Data Pipelines
+- 🧠 System Design & Architecture
+- 🐳 Docker & Kubernetes
+- ⚡ Serverless Computing
+- 🔐 Security Best Practices
+- 📊 Data Engineering
 
 </td>
 </tr>
@@ -114,17 +133,71 @@ const abhishek = {
 
 ---
 
+## 💻 Code Philosophy
+
+<div align="center">
+
+```python
+class Developer:
+    def __init__(self, name="Abhishek"):
+        self.name = name
+        self.skills = {
+            "frontend": ["React", "Flutter", "HTML/CSS"],
+            "backend": ["Spring Boot", "Node.js", "Express"],
+            "database": ["MySQL", "MongoDB", "PostgreSQL"],
+            "cloud": ["AWS", "Azure", "Serverless"],
+            "mobile": ["Flutter", "React Native"]
+        }
+        self.principles = [
+            "Clean Code",
+            "Test-Driven Development", 
+            "Continuous Learning",
+            "User-Centric Design"
+        ]
+    
+    def work(self):
+        while True:
+            self.code()
+            self.test()
+            self.deploy()
+            self.learn()
+            self.repeat()
+    
+    def collaborate(self, project):
+        return f"Let's build {project} together! 🚀"
+```
+
+</div>
+
+---
+
 ## 🎯 Expertise Matrix
 
 <div align="center">
 
-| Domain | Tech | Mastery |
-| --- | --- | --- |
-| **Frontend** | React / Next.js / Tailwind | 95% |
-| **Backend** | Spring Boot / Node.js / .NET | 90% |
-| **Mobile** | Flutter / React Native | 85% |
-| **Cloud/DevOps** | AWS / Docker / CI-CD | 80% |
-| **Database** | SQL / NoSQL / Vector DBs | 90% |
+| Skill Area | Technologies | Proficiency |
+|:----------:|:------------|:-----------:|
+| **Frontend** | React, HTML/CSS, Bootstrap, Tailwind | ⭐⭐⭐⭐⭐ |
+| **Backend** | Spring Boot, Node.js, Express | ⭐⭐⭐⭐⭐ |
+| **Mobile** | Flutter, React Native | ⭐⭐⭐⭐ |
+| **Database** | MySQL, MongoDB, PostgreSQL | ⭐⭐⭐⭐⭐ |
+| **Cloud** | AWS, Azure, Docker | ⭐⭐⭐⭐ |
+| **DevOps** | CI/CD, Git, Linux | ⭐⭐⭐⭐ |
+| **Design** | Figma, Photoshop, Illustrator | ⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/aspofficial1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aspofficial1&repo=repo-name&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7" />
+</a>
+
+<!-- Add more pinned repos as needed -->
 
 </div>
 
@@ -135,13 +208,59 @@ const abhishek = {
 <div align="center">
 
 ### Open to collaborate on:
+✅ Full Stack Web Applications  
+✅ Cloud-Native Solutions  
+✅ Mobile App Development  
+✅ Open Source Projects  
+✅ DevOps & Automation Tools
 
-✅ High-performance Web Apps | ✅ Cloud Migration | ✅ Open Source | ✅ Tech Mentorship
+<br/>
 
-<a href="mailto:blcabhishek@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://linkedin.com/in/abhishek-sandeep-perera"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://github.com/aspofficial1"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://fb.com/abhihseksp"><img src="https://skillicons.dev/icons?i=facebook" /></a>
+### 📫 Reach Out
+<p>
+  <a href="mailto:blcabhishek@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/abhishek-sandeep-perera">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/aspofficial1">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://fb.com/abhihseksp">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+![Snake animation](https://github.com/aspofficial1/aspofficial1/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 👀 Profile Visitors
+
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=aspofficial1&label=Profile%20Views&color=00F7F7&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -149,23 +268,10 @@ const abhishek = {
 
 <div align="center">
 
-### 🎨 *"Code is the canvas, logic is the brush."* ✨
+### 🎨 *"In the intersection of creativity and logic, magic happens"* ✨
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
-**⚡ Optimized for Performance | Fueled by Innovation 🚀**
+**⚡ Powered by Coffee ☕ | Fueled by Passion 🔥 | Driven by Innovation 🚀**
 
 </div>
-
-```
-
-### What's Changed?
-
-  * **Modernized Tech Stack:** Added **Next.js**, **TypeScript**, and **Redis** to the Arsenal—standard tools for a "Full Stack Sorcerer" in 2026.
-  * **TypeScript Upgrade:** Changed the Javascript block to Typescript to reflect a more modern, type-safe professional image.
-  * **Visual Balance:** Cleaned up the spacing in the "Let's Connect" section and the Expertise Matrix for better readability on mobile.
-  * **Dynamic Descriptions:** Updated the "Waving" header and Typing SVG with slightly more aggressive, high-level professional titles.
-
-**Would you like me to help you write a professional "About Me" summary or a specific project description to pin in your "Featured Projects" section?**
-
-```
